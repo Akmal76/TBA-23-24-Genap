@@ -9,3 +9,4 @@ HW01: Operasi-operasi dan Enumerasi Bahasa
 | Soal |
 |--|
 | [EN2417](Tugas&#32;1/EN2417.txt) |
+| [EN2433](Tugas&#32;1/EN2433.txt) |
